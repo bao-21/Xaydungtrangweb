@@ -1,0 +1,17 @@
+.tong {
+    width: 800px;
+    height: 350px;
+}
+.video {
+    width: 700px;
+    height: 350px;
+    background-color: blue;
+    margin-right: 10px;
+    float: left;
+}
+.anh {
+    width: 1500px;
+    height: 600px;
+    margin-bottom: 20px;
+    float: left;
+}

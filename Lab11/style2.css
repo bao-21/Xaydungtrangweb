@@ -1,0 +1,12 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border:1px solid rgb(15, 207, 241);
+}
+th {
+    background-color: blue;
+    color: white;
+}
+tr:nth-child(2n+1) {
+    background-color: gainsboro;
+}

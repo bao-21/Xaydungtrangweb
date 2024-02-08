@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+    border-color: greenyellow;
+    text-align: center;
+}
+.mau {
+    background-color: green;
+    color: white;
+}
+.mau2 {
+    background-color: greenyellow;
+}
+.do {
+    color: red;
+}
